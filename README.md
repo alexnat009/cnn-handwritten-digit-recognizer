@@ -55,8 +55,7 @@ python main.py
 
 ### **Visualization**
 
-The script generates **accuracy & loss curves** for performance monitoring:  
-![Model Accuracy & Loss](./assets/training_plot.png)
+The script generates **accuracy & loss curves** for performance monitoring
 
 ## **Digit Prediction**
 
